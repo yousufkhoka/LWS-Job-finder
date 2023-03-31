@@ -1,0 +1,39 @@
+{
+  "jobs": [
+    {
+      "title": "MERN Stack Developer",
+      "salary": 300000,
+      "type": "Remote",
+      "deadline": "2023-03-15",
+      "id": 1
+    },
+    {
+      "title": "Software Developer",
+      "salary": 345678,
+      "type": "Remote",
+      "deadline": "2023-03-28",
+      "id": 2
+    },
+    {
+      "title": "Social Media Manager",
+      "salary": 300000,
+      "type": "Full Time",
+      "deadline": "2023-03-25",
+      "id": 4
+    },
+    {
+      "title": "QA Engineer",
+      "salary": 40000,
+      "type": "Internship",
+      "deadline": "2023-03-23",
+      "id": 6
+    },
+    {
+      "title": "DevOps Engineer",
+      "salary": 90000,
+      "type": "Internship",
+      "deadline": "2023-03-29",
+      "id": 7
+    }
+  ]
+}
